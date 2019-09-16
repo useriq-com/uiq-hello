@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "UIQHello"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "UserIQ React Native Integration Checker"
   s.description  = <<-DESC 
   UserIQ React Native Integration Checker.
