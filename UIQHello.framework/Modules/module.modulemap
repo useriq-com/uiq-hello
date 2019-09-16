@@ -1,0 +1,6 @@
+framework module UIQHello {
+  umbrella header "UIQHello.h"
+
+  export *
+  module * { export * }
+}
